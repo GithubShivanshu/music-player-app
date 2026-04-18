@@ -1,6 +1,6 @@
 # Music Player App 🎵
 
-A React Native (Expo) music player app built as an assignment.
+A React Native (Expo) music player app.
 
 ## Features
 - Search songs (JioSaavn API + iTunes fallback)
